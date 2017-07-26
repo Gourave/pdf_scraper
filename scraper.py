@@ -1,6 +1,6 @@
 import os, urllib,re, sys
 
-pathName = "~/Desktop/test/"
+pathName = "~/Desktop/pdfs/"
 
 if len(sys.argv) == 1:
     url = "https://uwaterloo.ca/scholar/ahilal/classes/ece-457a-cooperative-and-adaptive-algorithms/materials/schedule"
